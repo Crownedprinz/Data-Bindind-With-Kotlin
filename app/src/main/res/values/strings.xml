@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">John Ademola</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Hi, My Name is John Ademola
+    \n\n I Love Chicken
+    \n\n The Kind that is crispy  and soft
+    \n\nHey, this is my homepage, so I have to say something about myself. Sometimes it is hard to introduce yourself
+        \n\nbecause you know yourself so well that you do not know where to start with. Let me give a try to see what
+        \n\nkind of image you have about me through my self-description. I hope that my impression about myself and your impression about
+        \n\nme are not so different. Here it goes.
+        \n\nI am a person who is positive about every aspect of life. There are many things I like to do, to see, and to experience. I
+        \n\nlike to read, I like to write; I like to think, I like to dream; I like to talk, I like to listen. I like to see the sunrise in the morning,
+        \n\nI like to see the moonlight at night; I like to feel the music flowing on my face, I like to smell the wind coming from the ocean. I like to
+        \n\nlook at the clouds in the sky with a blank mind, I like to do thought experiment when I cannot sleep in the middle of the night.
+        \n\nI like flowers in spring, rain in summer, leaves in autumn, and snow in winter. I like to sleep early, I like to get up late; I like to be alone,
+        \n\nI like to be surrounded by people. I like country’s peace, I like metropolis’ noise; I like the beautiful west lake in Hangzhou,
+        \n\nI like the flat cornfield in Champaign. I like delicious food and comfortable shoes; I like good books and romantic movies.
+        \n\nI like the land and the nature, I like people. And, I like to laugh.
+        \n\nI always wanted to be a great writer, like Victor Hugo who wrote "Les Miserable", or like Roman Roland who wrote "John Christopher".
+        \n\nThey have influenced millions of people through their books. I also wanted to be a great psychologist, like William James or Sigmund Freud,
+        \n\nwho could read people’s mind. Of course, I am nowhere close to these people, yet. I am just someone who does some teaching, some research,
+        \n\nand some writing. But my dream is still alive.
+        \n\nThis is a brief introduction of myself. If you are interested in knowing more,
+        \n\nread my articles or take a look at my pictures. Do not expect too much, and keep your sense of humor.\n\n</string>
+    <string name="what_is_your_nickname">What is your Nick Name</string>
+    <string name="done" >Done</string>
+</resources>
